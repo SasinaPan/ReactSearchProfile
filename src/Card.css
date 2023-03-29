@@ -1,0 +1,9 @@
+body {
+    color: black;
+}
+
+.profile-box {
+    background-color: rgb(237, 237, 237);
+    width: 350px;
+    margin-top: 45px;
+}
