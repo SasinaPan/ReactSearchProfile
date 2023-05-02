@@ -1,5 +1,6 @@
 # React 
 
+Fetch the generated API JSON. Displayed in the form of a website using the React language to create a website. use of the website It is a person's profile search.
 ## API 
 http://localhost:9000/profile
 
