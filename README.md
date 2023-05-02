@@ -4,6 +4,11 @@ Fetch the generated API JSON. Displayed in the form of a website using the React
 ## API 
 http://localhost:9000/profile
 
+# Technologies 
+  React, 
+  API, 
+  JSON
+
 
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/128724775/228578474-5a8004bd-f54d-4051-a31c-4a9ca63e71dd.png">
 
